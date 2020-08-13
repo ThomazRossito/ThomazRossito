@@ -10,7 +10,7 @@
 ### My focus is to solve business problems through Data Engineering, Machine Learning and Deep Learning
 
 
-![Rodrigo github stats](https://github-readme-stats.vercel.app/api?username=ThomazRossito)
+![Thomaz github stats](https://github-readme-stats.vercel.app/api?username=ThomazRossito)
 
 
 <!--
