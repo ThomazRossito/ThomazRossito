@@ -7,7 +7,7 @@
 
 ## I am Big Data Engineer | Databricks | Azure Cloud Engineer | Apache Spark | Data Scientist. 
 
-### My focus is to solve business problems through Data Engineering, Data Architect, Cloud Engineer Architect, Apache Spark and Databricks.
+### My focus is to solve business problems through Data Engineering, Data Architect, Cloud Data Engineer Architect, Apache Spark and Databricks.
 
 
 ![Thomaz github stats](https://github-readme-stats.vercel.app/api?username=ThomazRossito)
