@@ -27,3 +27,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<br>
+
+<img width = "400px" src = "https://databricks.com/wp-content/uploads/2019/09/og-databricks.png"> <img width = "200px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "200px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> 
+
+<br>
+
+## MBA e Certificações:
+
+#### <code>Databricks Engineer with Apache Spark™ 3.0  </code>
+#### <code>MCSE: Data Management and Analytics Microsoft</code>
+#### <code>MCSA: Data Engineering with Azure Microsoft</code>
+#### <code>MBA em Ciência de Dados com ênfase em Big Data</code>
+
+<br>
+
+## Contatos: 
+
+#### <code> E-mail: thomaz.rossito@terra.com.br </code> 
+#### <code> Cel./WhatsApp: (67) 9 8153-3240 </code> 
+#### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
+#### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
+#### <code> Site Pessoal: <a href="www.thomazrossito.com.br"> www.thomazrossito.com.br </a> </code>
