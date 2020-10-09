@@ -5,10 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thomazrossito@gmail.com)](mailto:thomazrossito@gmail.com)
 
 
-## I am Big Data Engineer | Databricks | Azure Cloud Engineer | Apache Spark | Data Scientist. 
+## I am Big Data Engineer | Cloud Data Engineer | Data Architect | Databricks | Apache Spark | Data Scientist.
 
 ### My focus is to solve business problems through Data Engineering, Data Architect, Cloud Data Engineer Architect, Apache Spark and Databricks.
-
 
 
 ![Thomaz github stats](https://github-readme-stats.vercel.app/api?username=ThomazRossito)
