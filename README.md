@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 <br>
 
+<img width = "160px" src = "https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1">
+
+<br>
+
 ## MBA e Certificações:
 
 #### <code>Databricks Engineer with Apache Spark™ 3.0  </code>
