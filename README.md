@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="http://www.thomazrossito.com.br/certificacoes-microsoft/"> <img width = "350px" src = "https://databricks.com/wp-content/uploads/2019/09/og-databricks.png"> </a>
+<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> <img width = "350px" src = "https://databricks.com/wp-content/uploads/2019/09/og-databricks.png"> </a>
 
 <br>
 
