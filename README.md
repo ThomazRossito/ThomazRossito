@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/DLE.png"> <img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/UDA.png"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> 
+<img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/DLE.png"> <img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/UDA.png"> 
+<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> </a>
 
 <br>
 
