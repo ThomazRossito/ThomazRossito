@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img width = "350px" src = "https://databricks.com/wp-content/uploads/2019/09/og-databricks.png"> <img width = "160px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "160px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> 
+<img width = "160px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/DLE.png"> <img width = "160px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/UDA.png"> <img width = "160px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "160px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> 
 
-<br>
-
-<img width = "160px" src = "https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1">
 
 <br>
 
