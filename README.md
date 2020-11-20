@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
 <img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/DLE.png"> <img width = "200px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/UDA.png"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> <img width = "180px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSA-Data-Engineering-with-Azure_2019.png"> 
 
+<br>
+
+<a href="http://www.thomazrossito.com.br/certificacoes-microsoft/"> <img width = "350px" src = "https://databricks.com/wp-content/uploads/2019/09/og-databricks.png"> </a>
 
 <br>
 
