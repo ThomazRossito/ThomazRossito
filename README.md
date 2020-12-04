@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 <br>
 
-## MBA e Certificações:                                                     | Contatos
+## MBA e Certificações:
 
-> #### <code>Databricks Engineer with Apache Spark™ 3.0  </code>            | <code> E-mail: thomaz.rossito@terra.com.br </code> 
+> #### <code>Databricks Engineer with Apache Spark™ 3.0  </code>
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
 > #### <code>MCSA: Data Engineering with Azure Microsoft</code>
 > #### <code>MBA em Ciência de Dados com ênfase em Big Data</code>
