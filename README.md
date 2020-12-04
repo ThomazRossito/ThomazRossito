@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## MBA e Certificações:
+## MBA e Certificações: | Contatos
 
 > #### <code>Databricks Engineer with Apache Spark™ 3.0  </code>
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
