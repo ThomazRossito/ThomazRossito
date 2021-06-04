@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.1l8ue1"> <img width = "170px" src = "https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.1l8ue1"> </a>
 <a href="https://credentials.databricks.com/84d1e7ba-ec89-4a73-9f00-3c63023bf0da#gs.q6ze9n"> <img width = "170px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/SQL.png"> </a>
-<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a"> <img width = "170px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/UDA.png"> </a> 
+<a href="https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a> 
 <a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1"> <img width = "170px" src = "https://tho-credentiais-databricks.s3-sa-east-1.amazonaws.com/DLE.png"> </a> 
 <br>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> <img width = "150px" src = "https://tho-cert-microsoft.s3-sa-east-1.amazonaws.com/MCSE-Data-Management-and-Analytics_2019.png"> </a>
