@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 <a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.31x9pe"> 
-<img width = "190px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
 <a href="https://credentials.databricks.com/2a840d7b-165a-49b2-805d-34fe730fddf1#gs.31x9my"> 
-<img width = "190px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDF.png"> </a> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDF.png"> </a> 
 <a href="https://credentials.databricks.com/84d1e7ba-ec89-4a73-9f00-3c63023bf0da#gs.31x7xl">
-<img width = "190px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
 <a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
-<img width = "190px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
 <a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
-<img width = "190px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <br>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSE.png"> </a>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
 > #### <code>MCSA: Data Engineering with Azure Microsoft</code>
 > #### <code>MBA em Ciência de Dados com ênfase em Big Data</code>
+> #### <code>MBA em Engenharia de Dados com ênfase em Big Data</code>
 
 <br>
 
