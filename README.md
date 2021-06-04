@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSE.png"> </a>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSA.png"> </a>
+<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
+<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/ADF.png"> </a>
+<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
+<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MTA.png"> </a>
 
 <br>
 
