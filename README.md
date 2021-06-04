@@ -30,26 +30,19 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-# UDA
 <a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
 <img width = "170px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
-# DTL
 <a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
 <img width = "170px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
-# SQL
 <a href="https://credentials.databricks.com/84d1e7ba-ec89-4a73-9f00-3c63023bf0da#gs.31x7xl"> 
 </a> <img width = "170px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a> 
-# PDF
 <a href="https://credentials.databricks.com/2a840d7b-165a-49b2-805d-34fe730fddf1#gs.31x9my"> 
 <img width = "170px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDF.png"> </a> 
-# PDE
 <a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.31x9pe"> 
 <img width = "170px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
 <br>
-# MCSE
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSE.png"> </a>
-# MCSA
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSA.png"> </a>
 
