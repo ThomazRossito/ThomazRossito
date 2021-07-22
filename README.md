@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDF.png"> </a> 
 <a href="https://credentials.databricks.com/84d1e7ba-ec89-4a73-9f00-3c63023bf0da#gs.31x7xl">
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
+<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DLH.png"> </a>
 <a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
 <a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
