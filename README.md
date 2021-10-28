@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
 > #### <code>MCSA: Data Engineering with Azure Microsoft</code>
 > #### <code>MBA: Ciência de Dados com ênfase em Big Data</code>
-> #### <code>MBA: em Engenharia de Dados com ênfase em Big Data</code>
+> #### <code>MBA: Engenharia de Dados com ênfase em Big Data</code>
 
 <br>
 
