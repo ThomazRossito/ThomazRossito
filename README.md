@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## MBA e Certificações:
 
-> #### <code>Databricks: Developer Foundations/Essentials | SQL Analyst with Apache Spark™  </code>
+> #### <code>Databricks: Developer Foundations/Essentials | SQL Analyst Associate ™  </code>
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
 > #### <code>MCSA: Data Engineering with Azure Microsoft</code>
 > #### <code>MBA: Ciência de Dados com ênfase em Big Data</code>
