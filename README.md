@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<br>
 ## Certificações:
+<br>
+<br>
 <a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.31x9pe"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
 <a href="https://credentials.databricks.com/2a840d7b-165a-49b2-805d-34fe730fddf1#gs.31x9my"> 
