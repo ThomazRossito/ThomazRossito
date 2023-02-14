@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
+## Certificações:
 <br>
 <a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.31x9pe"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
@@ -58,11 +59,8 @@ Here are some ideas to get you started:
 <img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/awsPartitioner.png"> </a>
 <br>
 
-## MBA e Certificações:
+## MBA :
 
-> #### <code>Databricks: Developer Foundations/Essentials | SQL Analyst Associate</code>
-> #### <code>MCSE: Data Management and Analytics Microsoft</code>
-> #### <code>MCSA: Data Engineering with Azure Microsoft</code>
 > #### <code>MBA: Ciência de Dados com ênfase em Big Data</code>
 > #### <code>MBA: Engenharia de Dados com ênfase em Big Data</code>
 
