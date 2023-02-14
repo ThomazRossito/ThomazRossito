@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
 <a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
+<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
 <img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/platfomrAdm.png"> </a>
 <br>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
