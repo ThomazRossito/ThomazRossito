@@ -70,4 +70,3 @@ Here are some ideas to get you started:
 > #### <code> Cel./WhatsApp: (67) 9 8153-3240 </code> 
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
 > #### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
-> #### <code> Site Pessoal: <a href="www.thomazrossito.com.br"> www.thomazrossito.com.br </a> </code>
