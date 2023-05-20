@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 <img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/awsPartitioner.png"> </a>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/objectStorage.png"> </a>
+<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
+<img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/wellArchitect.png"> </a>
 <br>
 
 ## MBA :
