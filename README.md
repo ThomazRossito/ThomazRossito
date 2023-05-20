@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
 <img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/platfomrAdm.png"> </a>
+<a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
+<img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/edw_etl_migration.png"> </a>
 <br>
 <a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
 <img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSE.png"> </a>
