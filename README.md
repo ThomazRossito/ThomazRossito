@@ -28,44 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Certificações:
-<a href="https://credentials.databricks.com/cf7a1e4a-b12e-440d-9b30-cf1ed1fdbbee#gs.31x9pe"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDE.png"> </a> 
-<a href="https://credentials.databricks.com/2a840d7b-165a-49b2-805d-34fe730fddf1#gs.31x9my"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/PDF.png"> </a> 
-<a href="https://credentials.databricks.com/84d1e7ba-ec89-4a73-9f00-3c63023bf0da#gs.31x7xl">
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
-<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DLH.png"> </a>
-<a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
-<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
-<a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
-<img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/platfomrAdm.png"> </a>
-<a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
-<img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/edw_etl_migration.png"> </a>
-<a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
-<img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/hadoop_migration.png"> </a>
-<a href="https://credentials.databricks.com/476d1620-1060-4a5f-889d-c00323b7df3c#gs.q11kms"> 
-<img width = "180px" src = "https://tarn-cert.s3.amazonaws.com/databricks/essentials.png"> </a>
-<br>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSE.png"> </a>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MCSA.png"> </a>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/ADF.png"> </a>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://cert-microsoft.s3.us-east-2.amazonaws.com/MTA.png"> </a>
-<br>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/awsPartitioner.png"> </a>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/objectStorage.png"> </a>
-<a href="https://www.youracclaim.com/users/thomaz-antonio-rossito-neto/badges"> 
-<img width = "150px" src = "https://tarn-cert.s3.amazonaws.com/aws/wellArchitect.png"> </a>
-<br>
 
 ## MBA :
 
