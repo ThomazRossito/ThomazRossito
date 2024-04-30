@@ -20,8 +20,14 @@ Ministrando conteúdo de dados para formação e coordenação de equipes, desen
 <br>
 [Youtube](https://www.youtube.com/@thomazantoniorossitoneto4541/videos)
 
-### Tecnologias de interesse:
-MultiCloud | AWS | Azure | Google | Terraform | Databricks | Spark | SQL | Scala e etc
+### Habilidades: 
+· Databricks            
+· Spark (PySpark, SparkSQL e SparkScala)                   
+· Cloud Azure (Data Lake · ADF · Synapse)                              
+· Cloud AWS (S3 · DMS · Kinesis · EMR · Glue Catalog · Athena)                              
+· Arquitetura de big data (Lambda · Kappa · Lakehouse · MDM)                    
+· Git                    
+        
 
 <!--
 **ThomazRossito/ThomazRossito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,20 +45,15 @@ Here are some ideas to get you started:
 -->
 
 
-## MBA :
-
+## Educação Acadêmica :
 > #### <code>MBA: Ciência de Dados com ênfase em Big Data</code>
 > #### <code>MBA: Engenharia de Dados com ênfase em Big Data</code>
 
-<br>
-
 ## Contatos: 
-
 > #### <code> E-mail: thomaz.rossito@terra.com.br </code> 
 > #### <code> Cel./WhatsApp: (67) 9 8153-3240 </code> 
-> #### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
-> #### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
 
+<br>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/thomaz-antonio-rossito-neto/)](https://www.linkedin.com/in/thomaz-antonio-rossito-neto/)
