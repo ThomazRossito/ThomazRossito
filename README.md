@@ -2,13 +2,13 @@
 # 😀 Thomaz Antonio Rossito Neto 😀
 
 
-Profissional com ais de 12 anos de experiência no ramo de TI, sendo os últimos 5 anos trabalhando como Engenheiro, Arquiteto e Liderança técnica em Dados.
+Profissional com mais de 12 anos de experiência no ramo de TI, sendo os últimos 5 anos trabalhando como Engenheiro, Arquiteto e Liderança técnica em Dados.
 
 Venho, recomendando e estruturando novas arquiteturas voltadas para pipeline de big data, proporcionando melhor insights de negócio, desenvolvendo modelos conceituais corporativos para gerenciar melhor rastreabilidade no entendimento do negócio com conhecimento em atividades de preparação de dados, planejamento e acompanhamento em contexto geral de projetos.
 
-Atualmente atuo como Arquiteto e Engenheiro de Dados em projetos de seguros para uma grande instituição bancária, viabilizando e estruturando o ambiente de dados, definindo melhores práticas de engenharia de dados com recursos em Cloud Azure e Databricks.
+Atualmente venho trabalhando como Tech Leader de Dados, Arquiteto e Engenheiro de Dados  em projetos de seguros para uma grande instituição bancária, viabilizando e estruturando o ambiente de dados, definindo melhores práticas de engenharia de dados com recursos em Cloud Azure e Databricks.
 
-Ministrando conteúdo de dados para formação e coordenação de equipes, desenvolvimento e realizando implantação de projetos.
+Também venho ministrando workshop sobre conteúdo de dados para formação dos profissionais na CI&T e no Cliente.
 
 ### Além disso, sou certificado em AWS, Azure e Databricks 
 [Credly](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
