@@ -29,6 +29,16 @@ Também venho ministrando workshop sobre conteúdo de dados para formação dos 
 · Git                    
         
 
+---
+
+<b><span style="font-size: 1.2em; font-style: italic;">🏆 Profissional Certificado Databricks</span></b>
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140136938" alt="Databricks Migration Specialization" width="150"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125134719" alt="Databricks Certified Spark Developer" width="155"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/167127257" alt="Databricks Certified Data Analyst Associate" width="155"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125134780" alt="Databricks Certified Data Engineer Associate" width="155"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157011932" alt="Databricks Certified Data Engineer Professional" width="155"/>
+
+[Todas certificações](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet)
+
+---
+
 <!--
 **ThomazRossito/ThomazRossito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
