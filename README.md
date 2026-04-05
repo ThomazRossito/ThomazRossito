@@ -39,6 +39,22 @@ Também venho ministrando workshop sobre conteúdo de dados para formação dos 
 
 ---
 
+<b><span style="font-size: 1.2em; font-style: italic;">🏆 Profissional Certificado Microsoft</span></b>
+
+<a href="https://www.credly.com/badges/052e5133-0c67-4ab7-bb3a-c99efa7b4406/public_url" target="_blank">
+  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals (DP-900 )" width="155"/>
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/thomazantoniorossitoneto/credentials/certification/fabric-data-engineer-associate" target="_blank">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663028569643/ftqfVZsrmaGyfUha.png" alt="Microsoft Certified: Fabric Data Engineer Associate (DP-700 )" width="155"/>
+</a>
+
+[Todas certificações](https://learn.microsoft.com/pt-br/users/thomazantoniorossitoneto/credentials )
+
+
+
+---
+
+
 <!--
 **ThomazRossito/ThomazRossito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
